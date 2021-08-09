@@ -12,7 +12,7 @@ $ touch c.txt
 $ mkdir test_dir1
 # 디렉토리 내 파일 확인. -al 은 숨긴 파일까지 다 보여줌.
 $ ls -al
-# TXT 파일만 업로드할 수 ㅣㅇ'ㅅㄴ'
+# TXT 파일만 업로드할 수 있음.
 $ git add "*.txt"
 # 현재 Git 명령 상태 확인 commit 전 상태를 확인할 수 있음.
 $ git status
